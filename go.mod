@@ -1,4 +1,4 @@
-module echo-todo
+module github.com/jordangomes/echo-todo
 
 go 1.21.5
 
